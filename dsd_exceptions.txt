@@ -1,0 +1,9 @@
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Multis.DesignStateDetailed..ctor(Int32 serial, Int32 revision, Boolean response, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax, MultiTileEntry[] tiles)
+   at Server.Multis.DesignStateDetailed.CompressionThread()
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Multis.DesignStateDetailed..ctor(Int32 serial, Int32 revision, Boolean response, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax, MultiTileEntry[] tiles)
+   at Server.Multis.DesignStateDetailed.CompressionThread()
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Multis.DesignStateDetailed..ctor(Int32 serial, Int32 revision, Boolean response, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax, MultiTileEntry[] tiles)
+   at Server.Multis.DesignStateDetailed.CompressionThread()

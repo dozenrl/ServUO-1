@@ -1,0 +1,4 @@
+doz currency: 0
+
+Total Accounts: 1
+Total Shard Gold: 0
