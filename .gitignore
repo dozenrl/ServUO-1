@@ -42,4 +42,4 @@
 *.ini
 
 !/Data/*
-!/bin/roslyn/*
+!/bin/rosyln/*
